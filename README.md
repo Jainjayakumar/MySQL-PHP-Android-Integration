@@ -1,4 +1,4 @@
-# MySQL-PHP-Integration
+# MySQL-PHP-Android-Integration
 How you can integrate PHP and MYSQL with your android application.
 
 
